@@ -156,3 +156,6 @@
 //     console.log(aa[index]=a*10)}
 
 
+
+
+
